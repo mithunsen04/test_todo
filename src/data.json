@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820953992263581569/original/a4f905fa-5b3f-41fd-90c5-af3b76fba3ae.jpeg?im_w=1200",
+    "title": "Hotel Grand",
+    "price": 150,
+    "details": "Luxurious hotel in the heart of the city, offering spacious rooms, a rooftop pool, and top-notch amenities."
+  },
+  {
+    "id": 2,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-803541464366243564/original/b9b52902-c95d-4960-a727-d2e05323d86b.jpeg?im_w=1200",
+    "title": "The Beachside Resort",
+    "price": 200,
+    "details": "Relaxing beachfront resort with stunning ocean views, private balconies, and direct access to the beach."
+  },
+  {
+    "id": 3,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-812919482265584093/original/c60bc2f2-7d16-4f7d-acf2-44c2f855fb81.jpeg?im_w=1200",
+    "title": "Cozy Boutique Hotel",
+    "price": 100,
+    "details": "Charming boutique hotel in a quiet neighborhood, featuring unique décor, a cozy fireplace lounge, and personalized service."
+  },
+  {
+    "id": 4,
+    "image": "https://a0.muscache.com/im/pictures/216d3a42-4594-43e0-a442-5c3872132401.jpg?im_w=1200",
+    "title": "Mountain Retreat Lodge",
+    "price": 180,
+    "details": "Escape to the mountains and enjoy the tranquility of our lodge surrounded by nature. Cozy rooms, hiking trails, and breathtaking views await."
+  },
+  {
+    "id": 5,
+    "image": "https://a0.muscache.com/im/pictures/miso/Hosting-873031692833121871/original/acc1f42b-46cc-42fc-bfa3-c2e5305aea27.jpeg?im_w=1200",
+    "title": "Urban Oasis Suites",
+    "price": 220,
+    "details": "Modern suites in the heart of the city. Our urban oasis offers sleek design, city views, and convenient access to shopping and dining."
+  },
+  {
+    "id": 6,
+    "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-820520157064814809/original/e89dace5-cefd-4a06-b624-a775e6342534.jpeg?im_w=1200",
+    "title": "Riverside Resort & Spa",
+    "price": 250,
+    "details": "Experience luxury by the river with our resort and spa. Indulge in spa treatments, fine dining, and serene riverfront walks."
+  }
+]
